@@ -1,0 +1,13 @@
+name: cite_project
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scikit-learn
+  - pytables
+  - scipy
+  - scanpy
+  - anndata
+  - h5py
